@@ -36,7 +36,7 @@ The project uses a 50-product inventory dataset and demonstrates how Excel can b
 - **0 products requiring reorder**
 
 ## Dashboard
-
+![Inventory Management Dashboard](Inventory_Dashboard.png)
 The dashboard includes:
 
 - Total Products
